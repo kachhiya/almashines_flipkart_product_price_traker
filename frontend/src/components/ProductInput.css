@@ -1,0 +1,14 @@
+.product-input {
+    background-color: #f0f8ff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .input-group .form-control {
+    border-radius: 4px 0 0 4px;
+  }
+  
+  .input-group .btn {
+    border-radius: 0 4px 4px 0;
+  }
+  
